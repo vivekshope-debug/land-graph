@@ -1,0 +1,11 @@
+streamlit>=1.40
+
+langchain==0.1.16
+langchain-core==0.1.52
+langchain-community==0.0.34
+
+langgraph==0.0.40
+
+langchain-google-genai==0.0.6
+
+pydantic==1.10.13
